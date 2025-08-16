@@ -1,0 +1,48 @@
+{
+    // ===== Aparência Geral =====
+    "workbench.colorTheme": "Tokyo Night Horizon (Syntax, Dark+ V2)",
+    "workbench.preferredDarkColorTheme": "Tokyo Night",
+    "workbench.preferredLightColorTheme": "Nord Light",
+    "workbench.iconTheme": "material-icon-theme",
+
+    // ===== Editor =====
+    "editor.fontFamily": "'MesloLGS Nerd Font','MesloLGS NF','MesloLGS Nerd Font Mono', Monaco, monospace",
+    "editor.fontSize": 17,
+    "editor.codeLensFontFamily": "Monaco",
+    "editor.codeLensFontSize": 1,
+    "editor.inlayHints.fontFamily": "Monaco",
+    "editor.minimap.sectionHeaderFontSize": 12,
+    "editor.inlineSuggest.fontFamily": "Monaco",
+    "editor.cursorStyle": "block",
+    "editor.fontLigatures": true,
+
+    // ===== Terminal Integrado =====
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.fontFamily": "'MesloLGS Nerd Font','MesloLGS NF','MesloLGS Nerd Font Mono','Hack Nerd Font','FiraCode Nerd Font','monospace'",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.lineHeight": 1.2,
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.cursorStyleInactive": "block",
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.gpuAcceleration": "on",
+    "terminal.integrated.minimumContrastRatio": 1,
+    "terminal.integrated.copyOnSelection": true,
+
+    // ===== Python =====
+    "python.defaultInterpreterPath": "/Library/Frameworks/Python.framework/Versions/3.13/bin/python3.13",
+    "python.terminal.shellIntegration.enabled": true,
+
+    // ===== Outros =====
+    "editor.accessibilitySupport": "off",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "none",
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+        "": true
+    },
+    "notebook.outline.showCodeCells": true,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    }
+}
