@@ -1,0 +1,42 @@
+/Users/diogenes/Library/Fonts/iAWriterQuattroV.ttf: iA Writer Quattro V
+/Users/diogenes/Library/Fonts/iAWriterDuoV.ttf: iA Writer Duo V:style=Bold
+/Users/diogenes/Library/Fonts/iAWriterMonoV.ttf: iA Writer Mono V:style=Regular
+/Users/diogenes/Library/Fonts/iAWriterDuoS-Italic.ttf: iA Writer Duo S:style=Italic
+/Users/diogenes/Library/Fonts/iAWriterQuattroV.ttf: iA Writer Quattro V:style=Text
+/Users/diogenes/Library/Fonts/iAWriterQuattroV-Italic.ttf: iA Writer Quattro V:style=Text Italic
+/Users/diogenes/Library/Fonts/iAWriterDuoV-Italic.ttf: iA Writer Duo V Italic,iA Writer Duo V
+/Users/diogenes/Library/Fonts/iAWriterQuattroV.ttf: iA Writer Quattro V:style=Regular
+/Users/diogenes/Library/Fonts/iAWriterDuoV-Italic.ttf: iA Writer Duo V Italic,iA Writer Duo V:style=Bold Italic
+/Users/diogenes/Library/Fonts/iAWriterMonoS-Bold.ttf: iA Writer Mono S:style=Bold
+/Users/diogenes/Library/Fonts/iAWriterQuattroV.ttf: iA Writer Quattro V:style=Bold
+/Users/diogenes/Library/Fonts/iAWriterMonoV-Italic.ttf: iA Writer Mono V:style=Italic,Regular
+/Users/diogenes/Library/Fonts/iAWriterQuattroV-Italic.ttf: iA Writer Quattro V
+/Users/diogenes/Library/Fonts/iAWriterDuoS-Regular.ttf: iA Writer Duo S:style=Regular
+/Users/diogenes/Library/Fonts/iAWriterQuattroV.ttf: iA Writer Quattro V:style=Semibold
+/Users/diogenes/Library/Fonts/iAWriterMonoV-Italic.ttf: iA Writer Mono V
+/Users/diogenes/Library/Fonts/iAWriterDuoV-Italic.ttf: iA Writer Duo V Italic,iA Writer Duo V:style=Regular,Italic
+/Users/diogenes/Library/Fonts/iAWriterQuattroS-Italic.ttf: iA Writer Quattro S:style=Italic
+/Users/diogenes/Library/Fonts/iAWriterDuoS-BoldItalic.ttf: iA Writer Duo S:style=Bold Italic
+/Users/diogenes/Library/Fonts/iAWriterMonoV.ttf: iA Writer Mono V
+/Users/diogenes/Library/Fonts/iAWriterMonoV.ttf: iA Writer Mono V:style=Semibold
+/Users/diogenes/Library/Fonts/iAWriterMonoV.ttf: iA Writer Mono V:style=Text
+/Users/diogenes/Library/Fonts/iAWriterDuoS-Bold.ttf: iA Writer Duo S:style=Bold
+/Users/diogenes/Library/Fonts/iAWriterQuattroS-Regular.ttf: iA Writer Quattro S:style=Regular
+/Users/diogenes/Library/Fonts/iAWriterMonoS-Regular.ttf: iA Writer Mono S:style=Regular
+/Users/diogenes/Library/Fonts/iAWriterDuoV.ttf: iA Writer Duo V:style=Regular
+/Users/diogenes/Library/Fonts/iAWriterQuattroV-Italic.ttf: iA Writer Quattro V:style=Semibold Italic
+/Users/diogenes/Library/Fonts/iAWriterQuattroS-Bold.ttf: iA Writer Quattro S:style=Bold
+/Users/diogenes/Library/Fonts/iAWriterQuattroS-BoldItalic.ttf: iA Writer Quattro S:style=Bold Italic
+/Users/diogenes/Library/Fonts/iAWriterMonoV-Italic.ttf: iA Writer Mono V:style=Text Italic
+/Users/diogenes/Library/Fonts/iAWriterDuoV.ttf: iA Writer Duo V:style=Text
+/Users/diogenes/Library/Fonts/iAWriterDuoV-Italic.ttf: iA Writer Duo V Italic,iA Writer Duo V:style=Text Italic
+/Users/diogenes/Library/Fonts/iAWriterMonoV-Italic.ttf: iA Writer Mono V:style=Bold Italic
+/Users/diogenes/Library/Fonts/iAWriterDuoV.ttf: iA Writer Duo V
+/Users/diogenes/Library/Fonts/iAWriterMonoV.ttf: iA Writer Mono V:style=Bold
+/Users/diogenes/Library/Fonts/iAWriterMonoS-Italic.ttf: iA Writer Mono S:style=Italic
+/Users/diogenes/Library/Fonts/iAWriterMonoS-BoldItalic.ttf: iA Writer Mono S:style=Bold Italic
+/Users/diogenes/Library/Fonts/iAWriterDuoV.ttf: iA Writer Duo V:style=Semibold
+/Users/diogenes/Library/Fonts/iAWriterMonoV-Italic.ttf: iA Writer Mono V:style=Semibold Italic
+/Users/diogenes/Library/Fonts/iAWriterQuattroV-Italic.ttf: iA Writer Quattro V:style=Italic,Regular
+/Users/diogenes/Library/Fonts/iAWriterQuattroV-Italic.ttf: iA Writer Quattro V:style=Bold Italic
+/Users/diogenes/Library/Fonts/iAWriterDuoV-Italic.ttf: iA Writer Duo V Italic,iA Writer Duo V:style=Semibold Italic

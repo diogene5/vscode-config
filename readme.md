@@ -20,3 +20,6 @@ git add -A
 git commit -m "update"
 git push
 ````
+
+
+"editor.fontFamily": "'iA Writer Mono S','iA Writer Quattro S','iA Writer Duo S', Menlo, Monaco, monospace"s

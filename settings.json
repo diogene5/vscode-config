@@ -6,8 +6,7 @@
     "workbench.iconTheme": "material-icon-theme",
 
     // ===== Editor =====
-    "editor.fontFamily": "'MesloLGS Nerd Font','MesloLGS NF','MesloLGS Nerd Font Mono', Monaco, monospace",
-    "editor.fontSize": 17,
+"editor.fontFamily": "'iA Writer Mono S','iA Writer Quattro S','iA Writer Duo S', Menlo, Monaco, monospace"    "editor.fontSize": 17,
     "editor.codeLensFontFamily": "Monaco",
     "editor.codeLensFontSize": 1,
     "editor.inlayHints.fontFamily": "Monaco",
